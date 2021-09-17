@@ -14,3 +14,6 @@
 ![an image of my gallery and Contact me section](Develop/Assets/images/galleryscreenshot.png)
 #
 ### In my gallery I have included images of my featured projects and to demonstrate my grasp on CSS I used media queries to detect when the viewer hovers over the images in the gallery and enlargens them. The form for contacting me is created using HTM form element.
+#
+# Portfolio Link
+### https://jaredinyaagha1.github.io/First-Portfolio/
