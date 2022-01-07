@@ -39,22 +39,26 @@ h1 {
     
     }
 
-.FirstL {
+.blurb {
     /* color: white; */
-    font-size: 5em;
-    /* text-align: center; */
+    font-size: 75px;
+    text-align: center;
     font-family: fantasy,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* padding-right: 250px; */
-    margin: 4em;
+    margin: 3em;
 }
 
-#Engineer {
-
+.FullStackDev { 
+    color: grey;
 }
 
 .highlighted {
     color: orangered;
 }
 
-
+@media screen and (max-width: 1770px) {
+    .blurb {
+        visibility: hidden;
+    }
+}
 
